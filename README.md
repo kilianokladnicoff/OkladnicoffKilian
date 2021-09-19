@@ -14,7 +14,7 @@
 ## Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=okladnicoffkilian&hide=stars,&count_private=true&show_icons=true"/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okladnicoffkilian&count_private=true&layout=compact" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okladnicoffkilian&langs_count=10&layout=compact" /><br/>
 
 ## My workstation
 ![](https://img.shields.io/badge/NVIDIA-RTX_3060_M-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
