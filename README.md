@@ -4,11 +4,9 @@
 - Fervent enthousiast of AI and backend development
 - Bachelor's in AI engineering
 
-A passionate person about many topics, especially when it's computer science related. 
-
 ## Contact and Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kilian-okladnicoff "Linkedin")
-[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/users/232165209509199873 "Discord")
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/232165209509199873 "Discord")
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kiokl2000?si=ae3020661c924666 "Spotify")
 [![](https://img.shields.io/badge/Lucidwolf-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucidwolf.developments@gmail.com "lucidwolf.developments@gmail.com")
 
