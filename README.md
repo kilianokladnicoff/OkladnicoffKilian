@@ -3,6 +3,7 @@
 
 - Fervent enthousiast of AI and backend development
 - Bachelor's in AI engineering
+- Needs caffeine to operate
 
 ## Contact and Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kilian-okladnicoff "Linkedin")
