@@ -1,11 +1,8 @@
-# Hi, I'm Kilian
-### I am a fan of everything tech and science related.
+# Hello there
+## About
+Just your average coffee fueled motor loving metalhead and programmer
 
-- Fervent enthousiast of AI and backend development
-- Bachelor's in AI engineering
-- Needs caffeine to operate
-
-## Contact and Socials
+## Socials
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kilian-okladnicoff "Linkedin")
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/232165209509199873 "Discord")
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/kiokl2000?si=ae3020661c924666 "Spotify")
@@ -60,7 +57,7 @@
 ![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
+![](https://img.shields.io/badge/Google_Cloud-DB4437?style=for-the-badge&logo=GoogleCloud&logoColor=white)
 
 <!-- ### Extras
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lucidwolf) -->
